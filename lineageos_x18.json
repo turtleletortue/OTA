@@ -1,11 +1,11 @@
 {
   "response": [
     {
-      "datetime": 1597591424,
+      "datetime": 1597537659,
       "filename": "lineage-14.1-20200816-UNOFFICIAL-x18.zip",
-      "id": "ea06e9dea02799d90d371481ec68fbb7",
+      "id": "f8da4d84e0e882db3d7fdf7838ff0ad5",
       "romtype": "unofficial",
-      "size": 414557018,
+      "size": 414555742,
       "url": "https://github.com/turtleletortue/android_device_powkiddy_x18/releases/download/beta-rc1/lineage-14.1-20200816-UNOFFICIAL-x18.zip",
       "version": "14.1"
     }

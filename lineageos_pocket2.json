@@ -1,1 +1,13 @@
-dummy file
+{
+  "response": [
+    {
+      "datetime": 1602987820,
+      "filename": "lineage-14.1-20201018-UNOFFICIAL-pocket2.zip",
+      "id": "03d7ed8723e448be86f56b5f3d0fca44",
+      "romtype": "unofficial",
+      "size": 318308850,
+      "url": "https://github.com/turtleletortue/android_device_retroid_pocket2/releases/download/ota-test/lineage-14.1-20201018-UNOFFICIAL-pocket2.zip",
+      "version": "14.1"
+    }
+  ]
+}

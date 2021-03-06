@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime": ,
-      "filename": "",
-      "id": "",
+      "datetime": 1615051703,
+      "filename": "lineage-15.1-20210306-UNOFFICIAL-pocket2.zip",
+      "id": "bac1ed8166e1cdb0a99e5a72d82d6d73",
       "romtype": "unofficial",
-      "size": ,
-      "url": "",
+      "size": 290536046,
+      "url": "https://github.com/turtleletortue/android_device_retroid_pocket2/releases/download/otatest/lineage-15.1-20210306-UNOFFICIAL-pocket2.zip",
       "version": "15.1"
     }
   ]

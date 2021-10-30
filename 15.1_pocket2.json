@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime": 1632943779,
-      "filename": "lineage-15.1-20210929-UNOFFICIAL-pocket2.zip",
-      "id": "a101cb58b0dba68def0ce990bbe982d1",
+      "datetime": 1635617830,
+      "filename": "lineage-15.1-20211030-UNOFFICIAL-pocket2.zip",
+      "id": "227d00ebe31067247d39db941cde97af",
       "romtype": "unofficial",
-      "size": 306004030,
-      "url": "https://github.com/turtleletortue/android_device_retroid_pocket2/releases/download/beta2-3/lineage-15.1-20210929-UNOFFICIAL-pocket2.zip",
+      "size": 292885485,
+      "url": "https://github.com/turtleletortue/android_device_retroid_pocket2/releases/download/beta2-4/lineage-15.1-20211030-UNOFFICIAL-pocket2.zip",
       "version": "15.1"
     }
   ]

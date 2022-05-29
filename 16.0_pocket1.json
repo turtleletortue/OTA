@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime": ,
-      "filename": "",
-      "id": "",
+      "datetime": 1653354163,
+      "filename": "lineage-16.0-20220524-UNOFFICIAL-pocket1.zip",
+      "id": "4a218d7ab5b037b8712190aed34c52f2",
       "romtype": "unofficial",
-      "size": ,
-      "url": "",
+      "size": 364785713,
+      "url": "https://github.com/turtleletortue/android_device_retroid_pocket1/releases/download/16.0-beta1/lineage-16.0-20220524-UNOFFICIAL-pocket1.zip",
       "version": "16.0"
     }
   ]

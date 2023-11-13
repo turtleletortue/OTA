@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime": 1681566905,
-      "filename": "lineage-19.1-20230415-UNOFFICIAL-pocket2plus.zip",
-      "id": "0700b53d446e7c45bfdd04e82253cdc636dea5c93ee43b43adb458fc5c98dc9d",
+      "datetime": 1699910505,
+      "filename": "lineage-19.1-20231113-UNOFFICIAL-pocket2plus.zip",
+      "id": "cf6c3e73bd717ad9c2ee1cf4ee402da36f193a5e6772e307988e702a36d709e5",
       "romtype": "unofficial",
-      "size": 885977990,
-      "url": "https://github.com/turtleletortue/android_device_retroid_pocket2plus/releases/download/lineage-19.1-20230415-UNOFFICIAL-pocket2plus/lineage-19.1-20230415-UNOFFICIAL-pocket2plus.zip",
+      "size": 884083928,
+      "url": "https://github.com/turtleletortue/android_device_retroid_pocket2plus/releases/download/lineage-19.1-20231113-UNOFFICIAL-pocket2plus/lineage-19.1-20231113-UNOFFICIAL-pocket2plus.zip",
       "version": "19.1"
     }
   ]
